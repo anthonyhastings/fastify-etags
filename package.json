@@ -1,0 +1,23 @@
+{
+  "name": "fastify-etags",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Anthony Hastings <ar.hastings@gmail.com> (https://antwan1986.github.io/)",
+  "license": "MIT",
+  "description": "A server built upon Fastify that showcases using ETags.",
+  "main": "index.mjs",
+  "engines": {
+    "node": "16.x.x"
+  },
+  "scripts": {
+    "start": "nodemon index.mjs"
+  },
+  "dependencies": {
+    "etag": "1.8.1",
+    "fastify": "3.28.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.15",
+    "prettier": "2.6.2"
+  }
+}
