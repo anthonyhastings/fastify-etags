@@ -80,7 +80,7 @@ curl --verbose --request POST http://localhost:3000 --header "Content-Type: appl
 < Keep-Alive: timeout=5
 ```
 
-## Useful links
+### Useful links
 
 - [HTTP ETag](https://en.wikipedia.org/wiki/HTTP_ETag)
 - [ETag - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/ETag)
